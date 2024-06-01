@@ -8,6 +8,28 @@ development process that results in market research product development, and pro
 
 1. 'Fashion Recommendation System-Deep Learning Models'
    
-    main ideas of this project; The main goal of this project is to analyze the 'Fashion Product Images Datasets' using Deep Learning Models.
+    Main ideas of this project; The main goal of this project is to analyze the 'Fashion Product Images Datasets' using Deep Learning Models.
    
     Coding Tasks & Project outcomes; https://www.kaggle.com/code/mrsohelranapro/fashion-recommendation-system-deep-learning-models 
+
+
+2. 'Heart-MRI-Image-Left-Atrial-Segmentation-Challenge-Via-Deep-Learning-Models'
+   
+    Main ideas of this project; The main goal of this project is to analyze the Cardiac image datasets, Particularly for automated segmentation technique.
+
+    Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Heart-MRI-Image-Left-Atrial-Segmentation-Challenge-Via-Deep-Learning-Models
+
+
+3. 'Automatic-Car-License-Number-Plate-Detection-Recognition'
+
+Main ideas of this project; The main goal of this project is to develop a reliable and efficient system that can automatically detect and recognize license plates from car images or videos. The proposed solution will leverage the power of the Inception model to achieve high accuracy and robustness in license plate identification.
+
+Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Automatic-Car-License-Number-Plate-Detection-Recognition
+
+4. 'Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms'
+   
+    Main ideas of this project; The main goal of this project is to analyze the image datasets using OpenCV librarries.
+
+    Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms
+   
+   
