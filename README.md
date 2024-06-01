@@ -32,5 +32,3 @@ development process that results in market research product development, and pro
     Main ideas of this project; The main goal of this project is to analyze the image datasets using OpenCV librarries.
 
     Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms
-   
-   
