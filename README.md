@@ -7,5 +7,7 @@ development process that results in market research product development, and pro
 # Data Driven And AI Models based Projects works;-
 
 1. 'Fashion Recommendation System-Deep Learning Models'
+   
     main ideas of this project; The main goal of this project is to analyze the 'Fashion Product Images Datasets' using Deep Learning Models.
+   
     Coding Tasks & Project outcomes; https://www.kaggle.com/code/mrsohelranapro/fashion-recommendation-system-deep-learning-models 
