@@ -13,7 +13,6 @@ development process that results in market research product development, and pro
     Coding Tasks & Project outcomes; https://www.kaggle.com/code/mrsohelranapro/fashion-recommendation-system-deep-learning-models 
 
 
-
 2. 'Automatic-Car-License-Number-Plate-Detection-Recognition'
 
     Main ideas of this project; The main goal of this project is to develop a reliable and efficient system that can automatically detect and recognize license plates from car images or 
@@ -21,7 +20,15 @@ development process that results in market research product development, and pro
 
     Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Automatic-Car-License-Number-Plate-Detection-Recognition
 
-3. 'Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms'
+   
+3. 'Customer-Personality-Analysis vie ML Models'
+   Main ideas of this project; The main goal of this Project is to develop a reliable & efficient system that can automatically detect the
+   Customer-Personality.
+
+   Coding Tasks & Project outcomes;
+   
+
+4. 'Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms'
    
     Main ideas of this project; The main goal of this project is to analyze the image datasets using OpenCV librarries.
 
