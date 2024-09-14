@@ -25,7 +25,7 @@ development process that results in market research product development, and pro
    Main ideas of this project; The main goal of this Project is to develop a reliable & efficient system that can automatically detect the
    Customer-Personality.
 
-   Coding Tasks & Project outcomes;
+   Coding Tasks & Project outcomes; https://github.com/SohelRana-aiub-Pro/Advance-Machine-Learning-and-Data-Science-Relevant-Projects
    
 
 4. 'Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms'
