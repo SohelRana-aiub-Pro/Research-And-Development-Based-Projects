@@ -6,7 +6,7 @@ development process that results in market research product development, and pro
 
 # Data Driven And AI Models based Projects works;-
 
-1. 'Fashion Recommendation System-Deep Learning Models'
+1. 'Fashion Recommendation System-Deep Learning Models'-----
    
     Main ideas of this project; The main goal of this project is to analyze the 'Fashion Product Images Datasets' using Deep Learning Models.
    
