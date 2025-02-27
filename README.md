@@ -11,7 +11,7 @@ development process that results in market research product development, and pro
     Main ideas of this project; The main goal of this project is to analyze the 'Fashion Product Images Datasets' using Deep Learning Models.
    
     Coding Tasks & Project outcomes; https://www.kaggle.com/code/mrsohelranapro/fashion-recommendation-system-deep-learning-models 
------------------------------------------------------------------------
+
 
 2. 'Automatic-Car-License-Number-Plate-Detection-Recognition'
 
@@ -29,6 +29,7 @@ development process that results in market research product development, and pro
    
 
 4. 'Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms'
+5. 
    
     Main ideas of this project; The main goal of this project is to analyze the image datasets using OpenCV librarries.
 
