@@ -1,4 +1,4 @@
-# What Is Research and Development (R&D) ?
+# What Is Research and Development (R&D) ? Question about the schene
 Research and development (R&D) is the series of activities that companies undertake to innovate. R&D is often the first stage in the 
 development process that results in market research product development, and product testing.
 ![image](https://github.com/SohelRana-aiub-Pro/Research-And-Development-Based-Projects/assets/133596903/c298ca74-50c8-4d96-8a60-0eae4b2d4fde)
@@ -29,7 +29,7 @@ development process that results in market research product development, and pro
    
 
 4. 'Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms'
-5. 
+   
    
     Main ideas of this project; The main goal of this project is to analyze the image datasets using OpenCV librarries.
 
